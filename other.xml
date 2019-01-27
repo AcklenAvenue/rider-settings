@@ -1,0 +1,19 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="KEYMAP" value="format&#10;run all&#10;run test" />
+    <property name="RD.Init.Cfg.2" value="true" />
+    <property name="RD.Init.DialogShown.Ide" value="true" />
+    <property name="TrendingPluginsSearchHistory" value="machine.specifications" />
+    <property name="evlsprt3.183" value="12" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/RiderProjects/Kata-Starter/src/Kata-Starter.sln&#10;/home/byron/RiderProjects/Kata-Starter/Kata-Starter.sln" />
+    <property name="file.gist.reindex.count" value="3" />
+    <property name="fileTypeChangedCounter" value="5" />
+    <property name="ignoreUltimateEdition" value="true" />
+    <property name="last_open_solution_path" value="$USER_HOME$/RiderProjects/Kata-Starter/src" />
+    <property name="last_selected_template" value="Class Library|.NET Core" />
+    <property name="last_selected_template_parameters" value="Language=C#;Framework=netcoreapp2.1;" />
+    <property name="settings.code.style.selected.tab.C#" value="Code Style" />
+    <property name="toolwindow.stripes.buttons.info.shown" value="true" />
+    <property name="ts.lib.d.ts.version" value="3.2.1" />
+  </component>
+</application>
