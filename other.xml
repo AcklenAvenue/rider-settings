@@ -1,0 +1,20 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="KEYMAP" value="run unit" />
+    <property name="RD.Init.Cfg.2" value="true" />
+    <property name="RD.Init.DialogShown.Ide" value="true" />
+    <property name="RiderNuGetViewSettings.SortMode" value="2" />
+    <property name="SettingsSearchHistory" value="namespaces" />
+    <property name="TrendingPluginsSearchHistory" value="machine.sp" />
+    <property name="evlsprt3.183" value="18" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/glee2/dotnet-backend&#10;/home/byron/AcklenAvenue.Commands/src/AcklenAvenue.Commands.sln&#10;/home/byron/AcklenAvenue.Commands/src2" />
+    <property name="file.gist.reindex.count" value="42" />
+    <property name="ignoreUltimateEdition" value="true" />
+    <property name="last_open_solution_path" value="$USER_HOME$/glee2/dotnet-backend" />
+    <property name="last_selected_template" value="Empty Solution|" />
+    <property name="last_selected_template_parameters" value="Type=xUnit;Language=C#;Framework=netcoreapp2.2;" />
+    <property name="settings.code.style.selected.tab.C#" value="Naming" />
+    <property name="toolwindow.stripes.buttons.info.shown" value="true" />
+    <property name="ts.lib.d.ts.version" value="3.2.1" />
+  </component>
+</application>
