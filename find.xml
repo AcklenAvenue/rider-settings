@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../Domain.Spec/Entities/when_changing_employee_display_name.cs'" />
-    <option name="defaultScopeName" value="File '.../Domain.Spec/Entities/when_changing_employee_display_name.cs'" />
-    <option name="SEARCH_SCOPE" value="File '.../Domain.Spec/Entities/when_changing_employee_display_name.cs'" />
+    <option name="customScope" value="Solution" />
+    <option name="defaultScopeName" value="Solution" />
+    <option name="SEARCH_SCOPE" value="Solution" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
