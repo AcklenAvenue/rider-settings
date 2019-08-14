@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../Commands.AspNetCore/EventWorkerConfig.cs'" />
-    <option name="defaultScopeName" value="File '.../Commands.AspNetCore/EventWorkerConfig.cs'" />
-    <option name="SEARCH_SCOPE" value="File '.../Commands.AspNetCore/EventWorkerConfig.cs'" />
+    <option name="customScope" value="Solution" />
+    <option name="defaultScopeName" value="Solution" />
+    <option name="SEARCH_SCOPE" value="Solution" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
